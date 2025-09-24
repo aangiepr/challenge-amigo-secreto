@@ -17,12 +17,12 @@ La idea es sencilla pero divertida: escribir los nombres de tus amigos en una li
 ## 🛠️ Tecnologías usadas
 - **HTML5**  
 - **CSS3**  
-- **JavaScript Vanilla** (puro, sin frameworks)  
+- **JavaScript**
 
 ---
 
 ## 📸 Capturas de pantalla
-_Aquí irán imágenes de ejemplo del proyecto en acción._  
+_Aquí se muestran imágenes de ejemplo del proyecto en acción._  
 
 👉 Lista de amigos agregados:  
 ![Captura lista de amigos](./assets/captura-lista.png)  
